@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(230, 242, 255);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(16, 75, 94);
+    font-family: 'Roboto', sans-serif;
+    
+}
+h5{
+    text-align: right 30px;
+    color: rgba(16, 75, 94, 0.76);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+ 
+}
+ul{
+    position: relative;
+    left: 40px;
+    color: rgba(0, 0, 0, 0.76);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    
+   
+}
+.card{
+    background-color: rgb(230, 242, 255);
+    border: none;
+    box-shadow: 2px 2px 3px 3px rgba(104, 104, 104, 0.212);
+    width: 1000px;
+    position: relative;
+    left: 100px;
+    margin: 20px;
+
+}
